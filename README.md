@@ -1,4 +1,4 @@
-# Movie Recommender System - Internship Task
+# Movie Recommender System -
 
 ## Description:
 A simple content-based recommender system built using MovieLens 100k dataset.
